@@ -29,6 +29,9 @@ Hasilnya tertera pada tabel dibawah.
 ## Bagian 2: Analisis Pemesanan Hotel Bulanan Berdasarkan Jenis Hotel
 Analisis ini difokuskan untuk melihat tren dari pemesanan hotel untuk tiap jenis hotel.
 ![2a  Ratio Total Booking](https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce)<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce"/>
+</p>
 Dari grafik diatas, didapatkan bahwa City Hotel 66.41%, lebih banyak dipesan dibanding Resort Hotel yang memiliki persentase 33.59%.<br>
 **Mengapa hal tersebut dapat terjadi?**
 Diduga bahwa mayoritas pelanggan yang memesan Hotel City ini merupakan pelancong yang memiliki aktivitas utama disekitar tempat mereka menginap, bukan tujuan utama mereka untuk melakukan aktivitas di hotel.
