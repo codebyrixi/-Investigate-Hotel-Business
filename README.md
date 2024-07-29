@@ -1,4 +1,4 @@
-![3c  Tren Pembatalan Pemesanan Berdasarkan Durasi](https://github.com/user-attachments/assets/ea2b175e-edeb-438b-9258-687ea26c8515)# Investigate Hotel Business using Data Visualization
+# Investigate Hotel Business using Data Visualization
 Project ini merupakan project yang bertujuan untuk melakukan investigasi terhadap suatu hotel (dalam kasus ini Hotel Business). Project ini dibuat menggunakan bahasa pemrograman Python
 
 ## Daftar Isi
@@ -43,12 +43,12 @@ Dari grafik tersebut, dapat dibuat kesimpulan sebagai berikut.
 
 ## Bagian 3: Analisis Dampak Durasi Menginap pada Tingkat Pembatalan Pemesanan Hotel
 Analisis ini berfokus untuk melihat tren antara durasi menginap dengan tingkat pembatalan pemesanan hotel. 
-![3 0  Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates](https://github.com/user-attachments/assets/5f97150e-66c5-4004-966c-4fa8d771a7b9)
+![3 0  Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates](https://github.com/user-attachments/assets/5f97150e-66c5-4004-966c-4fa8d771a7b9)<br>
 Walaupun Hotel City memiliki tingkat pemesanan yang lebih tinggi daripada Hotel Resort, akan tetapi hal tersbut berbanding lurus dengan tingkat pembatalannya. Hal ini menunjukkan bahwa banyak pelanggan yang memesan City Hotel cenderung lebih sering membatalkan pesanannya. Dikarenakan Hotel City banyak berpusat di daerah perkotaan dengan berkawasan bisnis, maka terkadang banyak kegiatan bisnis yang harus diatur, serta pengaruh faktor lain. Oleh karena itulah banyak pelanggan yang membatalkan pesanan mereka.<br>
 **Namun apakah hal tersebut berpengaruh terhadap durasi menginapnya?**
-![3c  Tren Pembatalan Pemesanan Berdasarkan Durasi](https://github.com/user-attachments/assets/9a0c1dc8-91b1-45b3-afd2-da1fdc9f0438)
+![3c  Tren Pembatalan Pemesanan Berdasarkan Durasi](https://github.com/user-attachments/assets/9a0c1dc8-91b1-45b3-afd2-da1fdc9f0438)<br>
 Dapat dilihat bahwa tingkat pembatalan akan semakin tinggi seiring dengan lama durasi menginap yang dipesan pada kedua tipe hotel. Pada City Hotel untuk durasi menginap >2 minggu memiliki Cancelation Rate >50%, apalagi untuk durasi menginap >1 bulan hanya 1 dari 10 orang yang tidak membatalkan pesanannya.
 
 ## Bagian 4: Analisis Dampak _Lead Time_ terhadap Tingkat Pembatalan Pemesanan Hotel
-![4a  Tingkat Pembatalan Pemesanan Hotel Berdasarkan Masa Tunggu (Lead Time)](https://github.com/user-attachments/assets/63ae8400-92bc-4161-95b1-4670ab31d25e)
+![4a  Tingkat Pembatalan Pemesanan Hotel Berdasarkan Masa Tunggu (Lead Time)](https://github.com/user-attachments/assets/63ae8400-92bc-4161-95b1-4670ab31d25e)<br>
 Dari grafik diatas, didapatkan bahwa tingkat pembatalan berdasarkan masa tunggu masih didominasi oleh City Hotel, dengan tingkat Cancelation Rate cenderung tinggi ketika masa tunggu hampir satu tahun.
