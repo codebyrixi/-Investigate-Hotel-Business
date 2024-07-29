@@ -29,4 +29,14 @@ Hasilnya tertera pada tabel dibawah.
 ## Bagian 2: Analisis Pemesanan Hotel Bulanan Berdasarkan Jenis Hotel
 Analisis ini difokuskan untuk melihat tren dari pemesanan hotel untuk tiap jenis hotel.
 ![2a  Ratio Total Booking](https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce)
-
+Dari grafik diatas, didapatkan bahwa City Hotel 66.41%, lebih banyak dipesan dibanding Resort Hotel yang memiliki persentase 33.59%.
+**Mengapa hal tersebut dapat terjadi?**
+Diduga bahwa mayoritas pelanggan yang memesan Hotel City ini merupakan pelancong yang memiliki aktivitas utama disekitar tempat mereka menginap, bukan tujuan utama mereka untuk melakukan aktivitas di hotel.
+Selain itu, City hotel biasanya terletak di pusat kota atau daerah perkotaan, dekat dengan tempat-tempat wisata dan bisnis. Mereka biasanya dirancang untuk memberikan kenyamanan dan kemudahan akses ke fasilitas dan aktivitas di kota, seperti restoran, pusat perbelanjaan, dan tempat wisata.
+Sedangkan, Pelanggan yang memesan Resort Hotel diduga memang memiliki tujuan untuk berlibur dan bersantai di tempat ini karena Resort hotel biasanya terletak di tempat-tempat yang indah seperti tepi pantai, pegunungan, atau daerah pedesaan yang tenang dan terdapat fasilitas yang lengkap.
+Jika dilihat secara bulanan, dapat dilihat pada grafik dibawah ini
+![2b  Ratio Total Booking jpg](https://github.com/user-attachments/assets/f0444e8c-0fe1-4584-b6c8-90c188b9efdf)
+Dari grafik tersebut, dapat dibuat kesimpulan sebagai berikut.
+1. Tingkat pemesanan pada periode Januari – Maret merupakan tingkat pemesanan terendah. Hal ini dapat dikarenakan sedikit sekali hari libur nasional. Selain itu, bulan tersebut merupakan awal tahun ajaran baru bagi pelajar. Oleh karena itu, memiliki aktivitas perjalanan bisnis pada bulan tersebut tidak sesibuk bulan-bulan lainnya dikarenakan masih awal tahun.
+2. Pemesanan kedua tipe hotel pada perode bulan Mei - Agustus memiliki nilai tertinggi (terutama untuk City Hotel), serta mengalami peningkatan yang signifikan pada periode waktu tersebut. Hal ini dapat dikarenakan selain adanya liburan sekolah pada bulan tersebut, juga bertepatan dengan banyaknya hari libur nasional seperti cuti bersama dan acara keagamaan seperti bulan Ramadhan dan Idul Fitri. Oleh karena itu, banyak orang yang mengambil kesempatan ini untuk menfaatkan waktunya dengan berlibur, seperti berkunjung ke luar kota, dan melakukan pemesanan hotel.
+3. Sedangkan pada musim liburan Oktober - Desember bertepatan depan dengan natal dan tahun baru, yang menyebabkan tingkat pemesanan pada bulan tersebut kembali meninggi.
