@@ -2,10 +2,10 @@
 Project ini merupakan project yang bertujuan untuk melakukan investigasi terhadap suatu hotel (dalam kasus ini Hotel Business). Project ini dibuat menggunakan bahasa pemrograman Python
 
 ## Daftar Isi
-- Data Preprocessing
-- Analisis Pemesanan Hotel Bulanan Berdasarkan Jenis Hotel
-- Analisis Dampak Durasi Menginap pada Tingkat Pembatalan Pemesanan Hotel
-- Analisis Dampak _Lead Time_ terhadap Tingkat Pembatalan Pemesanan Hotel
+- [Data Preprocessing](https://github.com/codebyrixi/Investigate-Hotel-Business/blob/main/README.md#bagian-1-data-preprocessing)
+- [Analisis Pemesanan Hotel Bulanan Berdasarkan Jenis Hotel](https://github.com/codebyrixi/Investigate-Hotel-Business/blob/main/README.md#bagian-2-analisis-pemesanan-hotel-bulanan-berdasarkan-jenis-hotel)
+- [Analisis Dampak Durasi Menginap pada Tingkat Pembatalan Pemesanan Hotel](https://github.com/codebyrixi/Investigate-Hotel-Business/blob/main/README.md#bagian-3-analisis-dampak-durasi-menginap-pada-tingkat-pembatalan-pemesanan-hotel)
+- [Analisis Dampak _Lead Time_ terhadap Tingkat Pembatalan Pemesanan Hotel](https://github.com/codebyrixi/Investigate-Hotel-Business/blob/main/README.md#bagian-4-analisis-dampak-lead-time-terhadap-tingkat-pembatalan-pemesanan-hotel)
 
 ## Bagian 0: Pendahuluan
 Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya. Pada kesempatan kali ini, akan didalami bisnis dalam bidang perhotelan. Fokus yang dituju adalah untuk mengetahui bagaimana perilaku pelanggan dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang ditemukan akan disajikan dalam bentuk visualisasi data agar lebih mudah dipahami dan bersifat lebih persuasif. Dari latar belakang tersebut, didapat tiga tujuan penelitian yakni sebagai berikut
@@ -32,7 +32,7 @@ Analisis ini difokuskan untuk melihat tren dari pemesanan hotel untuk tiap jenis
   <img src="https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce"/>
 </p>
 Dari grafik diatas, didapatkan bahwa City Hotel 66.41%, lebih banyak dipesan dibanding Resort Hotel yang memiliki persentase 33.59%.<br>
-**Mengapa hal tersebut dapat terjadi?**
+<b>Mengapa hal tersebut dapat terjadi?</b>
 Diduga bahwa mayoritas pelanggan yang memesan Hotel City ini merupakan pelancong yang memiliki aktivitas utama disekitar tempat mereka menginap, bukan tujuan utama mereka untuk melakukan aktivitas di hotel.
 Selain itu, City hotel biasanya terletak di pusat kota atau daerah perkotaan, dekat dengan tempat-tempat wisata dan bisnis. Mereka biasanya dirancang untuk memberikan kenyamanan dan kemudahan akses ke fasilitas dan aktivitas di kota, seperti restoran, pusat perbelanjaan, dan tempat wisata.<br>
 Sedangkan, Pelanggan yang memesan Resort Hotel diduga memang memiliki tujuan untuk berlibur dan bersantai di tempat ini karena Resort hotel biasanya terletak di tempat-tempat yang indah seperti tepi pantai, pegunungan, atau daerah pedesaan yang tenang dan terdapat fasilitas yang lengkap.<br><br>
@@ -51,7 +51,7 @@ Analisis ini berfokus untuk melihat tren antara durasi menginap dengan tingkat p
   <img src="https://github.com/user-attachments/assets/5f97150e-66c5-4004-966c-4fa8d771a7b9"/>
 </p>
 Walaupun Hotel City memiliki tingkat pemesanan yang lebih tinggi daripada Hotel Resort, akan tetapi hal tersbut berbanding lurus dengan tingkat pembatalannya. Hal ini menunjukkan bahwa banyak pelanggan yang memesan City Hotel cenderung lebih sering membatalkan pesanannya. Dikarenakan Hotel City banyak berpusat di daerah perkotaan dengan berkawasan bisnis, maka terkadang banyak kegiatan bisnis yang harus diatur, serta pengaruh faktor lain. Oleh karena itulah banyak pelanggan yang membatalkan pesanan mereka.<br>
-**Namun apakah hal tersebut berpengaruh terhadap durasi menginapnya?**
+<b>Namun apakah hal tersebut berpengaruh terhadap durasi menginapnya?</b>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a0c1dc8-91b1-45b3-afd2-da1fdc9f0438"/>
 </p>
