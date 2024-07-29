@@ -18,7 +18,7 @@ Pada proses ini dilakukan pemrosesan data sekaligus pembersihan data, yang terdi
 1. Pemeriksaan _null_ / _missing value_ pada data
 2. Pemeriksaan duplikasi data
 3. Pemeriksaan tipe data dan konsistensi nilai, serta
-4. Pemeriksaan _outlier_ atau data yang tidak biasa
+4. Pemeriksaan _outlier_ atau data yang tidak biasa<br>
 Hasilnya tertera pada tabel dibawah.
 
 | Asesmen Data      | Temuan                                                                                                                                                 | Penyelesaian                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -26,3 +26,6 @@ Hasilnya tertera pada tabel dibawah.
 | Null Values       | Terdapat null value pada kolom `company`, `city`, `children`,   dan `agent`                                                                            | 1. Kolom `company` diisi dengan 0 yang mengindikasikan tamu tidak berasal dari company<br> 2. Kolom `city` diisi dengan 0 yang mengindikasikan tamu melakukan reservasi mandiri atau tidak melalui agen<br> 3. Kolom `children` diisi dengan 0 yang mengindikasikan tamu tidak membawa anak-anak<br> 4. Kolom `agent` diisi dengan `undefined` dikarenakan kota nya tak diketahui dengan pasti |
 | Konsistensi Nilai | Terdapat makna “Undefined” pada kolom `meal`                                                                                                           | Mengkategorikan nilai kolom `meal` menjadi 2, yaitu:<br> 1. `With Meal` (_Breakfast, Full Board, Dinner_)<br> 2. `No Meal` (_No Meal, Undefined_)                                                                                                                                                                                                                                              |
 | Nilai Anomali     | 1. Terdapat nilai negatif dan outlier yang sangat jauh dari distribusi data pada kolom `adr`<br> 2. Terdapat 180 data booking yang tidak memiliki tamu | Melakukan _drop_ pada baris data tersebut                                                                                                                                                                                                                                                                                                                                                      |
+## Bagian 2: Analisis Pemesanan Hotel Bulanan Berdasarkan Jenis Hotel
+Analisis ini difokuskan untuk melihat tren dari pemesanan hotel untuk tiap jenis hotel.
+![image](https://github.com/user-attachments/assets/f4e913c4-b06b-4ae8-b981-ccbcc111f49f)
