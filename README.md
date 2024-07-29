@@ -32,7 +32,7 @@ Analisis ini difokuskan untuk melihat tren dari pemesanan hotel untuk tiap jenis
   <img src="https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce"/>
 </p>
 Dari grafik diatas, didapatkan bahwa City Hotel 66.41%, lebih banyak dipesan dibanding Resort Hotel yang memiliki persentase 33.59%.<br>
-<b>Mengapa hal tersebut dapat terjadi?</b>
+<b>Mengapa hal tersebut dapat terjadi?</b><br>
 Diduga bahwa mayoritas pelanggan yang memesan Hotel City ini merupakan pelancong yang memiliki aktivitas utama disekitar tempat mereka menginap, bukan tujuan utama mereka untuk melakukan aktivitas di hotel.
 Selain itu, City hotel biasanya terletak di pusat kota atau daerah perkotaan, dekat dengan tempat-tempat wisata dan bisnis. Mereka biasanya dirancang untuk memberikan kenyamanan dan kemudahan akses ke fasilitas dan aktivitas di kota, seperti restoran, pusat perbelanjaan, dan tempat wisata.<br>
 Sedangkan, Pelanggan yang memesan Resort Hotel diduga memang memiliki tujuan untuk berlibur dan bersantai di tempat ini karena Resort hotel biasanya terletak di tempat-tempat yang indah seperti tepi pantai, pegunungan, atau daerah pedesaan yang tenang dan terdapat fasilitas yang lengkap.<br><br>
