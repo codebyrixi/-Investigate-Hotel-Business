@@ -28,7 +28,6 @@ Hasilnya tertera pada tabel dibawah.
 | Nilai Anomali     | 1. Terdapat nilai negatif dan outlier yang sangat jauh dari distribusi data pada kolom `adr`<br> 2. Terdapat 180 data booking yang tidak memiliki tamu | Melakukan _drop_ pada baris data tersebut                                                                                                                                                                                                                                                                                                                                                      |
 ## Bagian 2: Analisis Pemesanan Hotel Bulanan Berdasarkan Jenis Hotel
 Analisis ini difokuskan untuk melihat tren dari pemesanan hotel untuk tiap jenis hotel.
-![2a  Ratio Total Booking](https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce)<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/14d90a41-a95c-45cc-8c10-30e1e35be5ce"/>
 </p>
